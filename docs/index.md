@@ -26,7 +26,7 @@ $ npm run release
  npm i @lvxiaowu/react-hooks -D
 ```
 
-```tsx
+```tsx | pure
 import React, { useRef } from 'react';
 import { useScroll } from '@lvxiaowu/react-hooks';
 
