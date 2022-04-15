@@ -18,7 +18,7 @@ git commit -m '部署 github'
 #git push -f https://github.com/lvxiaowu/cli-docs.git  master
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
-git push -f git@github.com:lvxiaowu/react-hooks-docs.git master:gh-pages
+git push -f git@github.com:lvxiaowu/react-hooks.git master:gh-pages
 
 
 cd -
